@@ -19,7 +19,7 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 
 import com.mayank786da.microservice.entities.Vendor;
 
-
+// Mayank 3rd Commit
 //@Profile({"local", "cf-test", "cf-dev","cf-prod"})
 @Configuration
 //@Profile("cloud")
