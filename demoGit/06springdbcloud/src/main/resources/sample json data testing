@@ -1,0 +1,59 @@
+    {
+        "companyName": "EMC2",
+        "contactPerson": "TrT",
+        "firstName": "Srinivas",
+        "lastName": "AKY",
+        "website": "www.emc2.co.us",
+        "email": "srinivas.aky@emc2.com",
+        "status": "A",
+        "regDate": "2022-11-09T17:00:06.130+00:00"
+        "addressess": [
+           {             
+             "addressType":"H",
+             "street":"MG Road",
+             "city":"Bangalore",
+             "countyr":India"",
+             "region":"APJ"             
+           },
+           {             
+             "addressType":"P",
+             "street":"Richmond Road",
+             "city":"Bangalore",
+             "countyr":India"",
+             "region":"APJ"             
+           }
+        ]
+    }
+    
+    
+    
+    
+    {
+        "code": "00cd4ae5-ae6f-4a75-a29f-3baad1c5b489",
+        "companyName": "SAP",
+        "contactPerson": "Subodh",
+        "firstName": "Bachita",
+        "lastName": "Surya",
+        "website": "www.emc2.co.us",
+        "email": "megha.sharma@emc2.com",
+        "status": "A",
+        "regDate": "2022-11-09T17:00:06.130+00:00",
+        "addressess": [
+            {
+                "addressId": "5cedf456-8085-47c0-a33d-a8e42d3b4b7c",
+                "addressType": "H",
+                "street": "MG Road",
+                "city": "Bangalore",
+                "country": "India",
+                "region": "APJ"
+            },
+            {
+                "addressId": "f0491ce3-881e-4465-ba41-d9f8da1f4402",
+                "addressType": "H",
+                "street": "MG Road",
+                "city": "Bangalore",
+                "country": "India",
+                "region": "APJ"
+            }
+        ]
+    }    
